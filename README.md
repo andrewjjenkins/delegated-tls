@@ -24,6 +24,8 @@ If you have an application that works with HTTPS URLs, you may need to tell the
 programming langauge/libraries "go to https://example.com, but actually speak
 HTTP".  This is a set of examples on how to do that in different languages/environments.
 
+- [Go, AWS SDK](./go/delegate-go-aws.go)
+- [Spring Boot](./java-spring/client-http-request-interceptor/main/java/com/example/delegate-tls/DelegateTlsInterceptor.java)
 
 # License
 
